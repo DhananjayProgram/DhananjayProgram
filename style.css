@@ -277,6 +277,7 @@ nav{
 
 nav .fa-bars{
     display: none;
+    
 }
 
 /* ----------------------------for small screen devices---------------------- */
@@ -397,7 +398,7 @@ nav .fa-bars{
     color: #fff;
 }
 
-nav .navbar-white .fa-bars{
+nav .fa-bars{
     color: #000;
 }
 .navbar-white .active::after{
