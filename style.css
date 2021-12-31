@@ -295,7 +295,7 @@ nav .fa-bars{
         width: 100%;
         padding: 100px 7% 0;
         background: #000;
-        text-align: right;
+        text-align:left;
         max-height: 100px;
         overflow: hidden;
         transition: max-height 0.5s;
@@ -303,6 +303,7 @@ nav .fa-bars{
     nav .nav-link li{
         margin: 10px 0;
         display: block;
+        
     }
     .register-btn{
         margin: 15px 0 30px;
